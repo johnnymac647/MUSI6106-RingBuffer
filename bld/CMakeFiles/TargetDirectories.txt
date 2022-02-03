@@ -1,0 +1,11 @@
+/Users/johnmcnamara/Documents/GitHub/2022-MUSI6106/bld/CMakeFiles/edit_cache.dir
+/Users/johnmcnamara/Documents/GitHub/2022-MUSI6106/bld/CMakeFiles/rebuild_cache.dir
+/Users/johnmcnamara/Documents/GitHub/2022-MUSI6106/bld/MUSI6106Exec/CMakeFiles/MUSI6106Exec.dir
+/Users/johnmcnamara/Documents/GitHub/2022-MUSI6106/bld/MUSI6106Exec/CMakeFiles/edit_cache.dir
+/Users/johnmcnamara/Documents/GitHub/2022-MUSI6106/bld/MUSI6106Exec/CMakeFiles/rebuild_cache.dir
+/Users/johnmcnamara/Documents/GitHub/2022-MUSI6106/bld/AudioFileIO/CMakeFiles/AudioFileIO.dir
+/Users/johnmcnamara/Documents/GitHub/2022-MUSI6106/bld/AudioFileIO/CMakeFiles/edit_cache.dir
+/Users/johnmcnamara/Documents/GitHub/2022-MUSI6106/bld/AudioFileIO/CMakeFiles/rebuild_cache.dir
+/Users/johnmcnamara/Documents/GitHub/2022-MUSI6106/bld/AudioFileIO/sndlib/CMakeFiles/sndlib.dir
+/Users/johnmcnamara/Documents/GitHub/2022-MUSI6106/bld/AudioFileIO/sndlib/CMakeFiles/edit_cache.dir
+/Users/johnmcnamara/Documents/GitHub/2022-MUSI6106/bld/AudioFileIO/sndlib/CMakeFiles/rebuild_cache.dir
